@@ -64,7 +64,7 @@ source venv/bin/activate
 
 ```sh
 python -m venv venv
-source venv/bin/activate
+.\venv\Scripts\activate
 ```
 
 3. Install project dependencies:
